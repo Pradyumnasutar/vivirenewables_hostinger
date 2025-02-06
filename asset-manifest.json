@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.70e26a34.css",
-    "main.js": "/static/js/main.c828e7dc.js",
+    "main.css": "/static/css/main.a6ce71cd.css",
+    "main.js": "/static/js/main.63b26849.js",
     "static/js/488.decf493e.chunk.js": "/static/js/488.decf493e.chunk.js",
     "static/media/3d-solar-panel-system.jpg": "/static/media/3d-solar-panel-system.7686237f833c90ba1855.jpg",
     "static/media/solarcleaning.jpg": "/static/media/solarcleaning.7709cdd0566c0d916285.jpg",
@@ -13,17 +13,17 @@
     "static/media/rooftop-slider-9-1.jpg": "/static/media/rooftop-slider-9-1.30c31fa37d74a51fa088.jpg",
     "static/media/waterheatingsolar.jpg": "/static/media/waterheatingsolar.dea6484c7aa03b477b7f.jpg",
     "static/media/diffsolarplates.jpg": "/static/media/diffsolarplates.fc1e795caa54c5686b57.jpg",
+    "static/media/logo-png.png": "/static/media/logo-png.a5051dbe535dd4f52c7a.png",
     "static/media/solarInverter.jpg": "/static/media/solarInverter.d65e198a55a8925c9b41.jpg",
-    "static/media/vivirenewablesLogo.jpg": "/static/media/vivirenewablesLogo.48edd187e746763e8018.jpg",
     "static/media/solar-panel-cleaning-service.jpg": "/static/media/solar-panel-cleaning-service.2c39ed50ace57f7724a5.jpg",
     "static/media/streetsolar.jpg": "/static/media/streetsolar.cf535bf7336e48baa517.jpg",
     "index.html": "/index.html",
-    "main.70e26a34.css.map": "/static/css/main.70e26a34.css.map",
-    "main.c828e7dc.js.map": "/static/js/main.c828e7dc.js.map",
+    "main.a6ce71cd.css.map": "/static/css/main.a6ce71cd.css.map",
+    "main.63b26849.js.map": "/static/js/main.63b26849.js.map",
     "488.decf493e.chunk.js.map": "/static/js/488.decf493e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.70e26a34.css",
-    "static/js/main.c828e7dc.js"
+    "static/css/main.a6ce71cd.css",
+    "static/js/main.63b26849.js"
   ]
 }
