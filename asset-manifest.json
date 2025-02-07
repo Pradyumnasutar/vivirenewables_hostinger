@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.90a9b791.css",
-    "main.js": "/static/js/main.c7153f76.js",
+    "main.js": "/static/js/main.2a0f2998.js",
     "static/js/488.decf493e.chunk.js": "/static/js/488.decf493e.chunk.js",
     "static/media/3d-solar-panel-system.jpg": "/static/media/3d-solar-panel-system.7686237f833c90ba1855.jpg",
     "static/media/solarcleaning.jpg": "/static/media/solarcleaning.7709cdd0566c0d916285.jpg",
@@ -14,16 +14,17 @@
     "static/media/rooftop-slider-9-1.jpg": "/static/media/rooftop-slider-9-1.30c31fa37d74a51fa088.jpg",
     "static/media/waterheatingsolar.jpg": "/static/media/waterheatingsolar.dea6484c7aa03b477b7f.jpg",
     "static/media/diffsolarplates.jpg": "/static/media/diffsolarplates.fc1e795caa54c5686b57.jpg",
+    "static/media/solar-pump.png": "/static/media/solar-pump.8ad8d03918fc73d5f6bc.png",
     "static/media/solarInverter.jpg": "/static/media/solarInverter.d65e198a55a8925c9b41.jpg",
     "static/media/solar-panel-cleaning-service.jpg": "/static/media/solar-panel-cleaning-service.2c39ed50ace57f7724a5.jpg",
     "static/media/streetsolar.jpg": "/static/media/streetsolar.cf535bf7336e48baa517.jpg",
     "index.html": "/index.html",
     "main.90a9b791.css.map": "/static/css/main.90a9b791.css.map",
-    "main.c7153f76.js.map": "/static/js/main.c7153f76.js.map",
+    "main.2a0f2998.js.map": "/static/js/main.2a0f2998.js.map",
     "488.decf493e.chunk.js.map": "/static/js/488.decf493e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.90a9b791.css",
-    "static/js/main.c7153f76.js"
+    "static/js/main.2a0f2998.js"
   ]
 }
