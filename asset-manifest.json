@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/static/css/main.90a9b791.css",
-    "main.js": "/static/js/main.c3fe0399.js",
+    "main.js": "/static/js/main.49b22d09.js",
     "static/js/488.decf493e.chunk.js": "/static/js/488.decf493e.chunk.js",
     "static/media/3d-solar-panel-system.jpg": "/static/media/3d-solar-panel-system.7686237f833c90ba1855.jpg",
     "static/media/solarcleaning.jpg": "/static/media/solarcleaning.7709cdd0566c0d916285.jpg",
-    "static/media/Gardensolar.jpg": "/static/media/Gardensolar.77799c199066befdfa20.jpg",
+    "static/media/commercial_solar.jpg": "/static/media/commercial_solar.677695742ebad66021bd.jpg",
     "static/media/logo-transparent-png.png": "/static/media/logo-transparent-png.d2247a5b85122d946c08.png",
     "static/media/solarMaintenance.jpg": "/static/media/solarMaintenance.726dc47031e31719c198.jpg",
     "static/media/gera-plaza.jpg": "/static/media/gera-plaza.29619dfa8f702f9ae68d.jpg",
@@ -19,11 +19,11 @@
     "static/media/streetsolar.jpg": "/static/media/streetsolar.cf535bf7336e48baa517.jpg",
     "index.html": "/index.html",
     "main.90a9b791.css.map": "/static/css/main.90a9b791.css.map",
-    "main.c3fe0399.js.map": "/static/js/main.c3fe0399.js.map",
+    "main.49b22d09.js.map": "/static/js/main.49b22d09.js.map",
     "488.decf493e.chunk.js.map": "/static/js/488.decf493e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.90a9b791.css",
-    "static/js/main.c3fe0399.js"
+    "static/js/main.49b22d09.js"
   ]
 }
